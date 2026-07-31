@@ -4,8 +4,8 @@
 %global crate multipart
 
 Name:           rust-%{crate}
-Version:        0.16.1
-Release:        2%{?dist}
+Version:        0.18.0
+Release:        1%{?dist}
 Summary:        Backend-agnostic extension for HTTP libraries
 
 # Upstream license specification: MIT OR Apache-2.0
